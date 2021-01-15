@@ -1,0 +1,23 @@
+.background{
+    top:50%;
+}
+.create{
+    width: 600px;
+    height: 520px;
+    background-color: rgba(47, 236, 221, 0.747);
+    color: #fff;
+    top: 50%;
+    left: 45%;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    box-sizing: border-box;
+}
+.avatar{
+    
+    border-radius: 50%;
+    width: 30%;
+    top: 20%;
+    margin-left: 35%;
+    margin-top: -12%;
+   
+}
